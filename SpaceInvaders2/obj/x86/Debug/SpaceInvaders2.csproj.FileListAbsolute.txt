@@ -1,0 +1,109 @@
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Invader.baml
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\MainWindow.baml
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Invader.g.cs
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\MainWindow.g.cs
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\App.g.cs
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2_MarkupCompile.cache
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.g.resources
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\bin\Debug\SpaceInvaders2.exe
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\bin\Debug\SpaceInvaders2.pdb
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.exe
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\bin\Debug\SpaceInvaders2.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\bin\Debug\SpaceInvaders2.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Invader.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Invader.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2_MarkupCompile.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.g.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bomb.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bomb.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bullet.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bullet.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\shieldElement.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\shieldElement.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\motherShip.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\motherShip.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\help.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\help.g.cs
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.exe
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.pdb
+F:\Projects\SpaceInvaders2\SpaceInvaders2\bin\Debug\SpaceInvaders2.exe
+F:\Projects\SpaceInvaders2\SpaceInvaders2\bin\Debug\SpaceInvaders2.pdb
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bomb.baml
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bullet.baml
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\help.baml
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Invader.baml
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\MainWindow.baml
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\motherShip.baml
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\shieldElement.baml
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bomb.g.cs
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bullet.g.cs
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\help.g.cs
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Invader.g.cs
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\MainWindow.g.cs
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\motherShip.g.cs
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\shieldElement.g.cs
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\App.g.cs
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2_MarkupCompile.cache
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.g.resources
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.Properties.Resources.resources
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\about.baml
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bomb.baml
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bullet.baml
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\help.baml
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\motherShip.baml
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\shieldElement.baml
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\about.g.cs
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bomb.g.cs
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bullet.g.cs
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\help.g.cs
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\motherShip.g.cs
+H:\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\shieldElement.g.cs
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.exe
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.pdb
+H:\Projects\SpaceInvaders2\SpaceInvaders2\bin\Debug\SpaceInvaders2.exe
+H:\Projects\SpaceInvaders2\SpaceInvaders2\bin\Debug\SpaceInvaders2.pdb
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\about.baml
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bomb.baml
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bullet.baml
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\help.baml
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Invader.baml
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\MainWindow.baml
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\motherShip.baml
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\shieldElement.baml
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\about.g.cs
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bomb.g.cs
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Bullet.g.cs
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\help.g.cs
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\Invader.g.cs
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\MainWindow.g.cs
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\motherShip.g.cs
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\shieldElement.g.cs
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\App.g.cs
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2_MarkupCompile.cache
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.g.resources
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2.Properties.Resources.resources
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\about.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\about.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\bin\Debug\about.htm
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\bin\Debug\help.htm
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\obj\x86\Debug\SpaceInvaders2_Content.g.cs

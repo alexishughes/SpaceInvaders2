@@ -1,0 +1,24 @@
+﻿<Window x:Class="SpaceInvaders2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="638" Width="775" KeyDown="Window_KeyDown" KeyUp="Window_KeyUp" Icon="/SpaceInvaders2;component/inv1.ico">
+    <Window.Background>
+        <ImageBrush ImageSource="/SpaceInvaders2;component/Images/background.png" />
+    </Window.Background>
+    <Canvas Name="cnvSpace" Width="722" Margin="16,12,16,0" Height="574" VerticalAlignment="Top">
+        <Image Canvas.Left="349" Canvas.Top="532" Height="22" Name="imgGunner" Stretch="Fill" Width="50" Source="/SpaceInvaders2;component/gunner.png" />
+        <Label Canvas.Left="6" Canvas.Top="5" Content="Score : 0" Height="27" Name="lblScore" Width="96" Foreground="Yellow" />
+        <Label Canvas.Left="229" Canvas.Top="5" Content="HighScore : 0" Height="27" Name="lblHighScore" Width="118" Foreground="Yellow" />
+        <Label Canvas.Left="258" Canvas.Top="242" Content="Level 1 Completed Bonus 1000" Height="28" Name="lblLevelCompleted" Foreground="Yellow" IsEnabled="False" Visibility="Hidden" Panel.ZIndex="1" />
+        <Label Canvas.Left="438" Canvas.Top="5" Content="Level : 1" Height="27" Name="lblLevel" Width="130" Foreground="Yellow" IsEnabled="True" />
+        <Label Canvas.Left="271" Canvas.Top="242" Content="Press SpaceBar to Play !!!" Height="28" Name="lblPressSpace" Foreground="Yellow" Panel.ZIndex="1" />
+        <Label Canvas.Left="304" Canvas.Top="214" Content="GAME OVER" Height="28" Name="lblGameOver" Foreground="Yellow" Visibility="Hidden" Panel.ZIndex="1" />
+        <Menu Canvas.Left="677" Canvas.Top="0" Height="21" Name="menu1" Width="45">
+            <MenuItem Header="Help" Name="mnuHelp" >
+                <MenuItem Header="Help" Name="help" Click="help_Click" />
+                <MenuItem Header="About" Name="about" Click="about_Click" />
+            </MenuItem>
+        </Menu>
+    </Canvas>
+
+</Window>

@@ -1,0 +1,8 @@
+﻿<Window x:Class="SpaceInvaders2.about"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="about" Height="300" Width="300" Loaded="Window_Loaded">
+    <Grid>
+        <WebBrowser Height="249" HorizontalAlignment="Left" Name="webAbout" VerticalAlignment="Top" Width="278" />
+    </Grid>
+</Window>

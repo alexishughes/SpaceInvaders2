@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "SpaceInvaders2", "SpaceInvaders2.exe", "{FAA4FAC3-D8C7-4F6E-8BAA-460CBA22677E}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\bin\Release\SpaceInvaders2.exe
+		RemoteMachine = AMD
+		StartingDirectory = C:\Users\Alex\Documents\Visual Studio 2010\Projects\SpaceInvaders2\SpaceInvaders2\bin\Release
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA4FAC3-D8C7-4F6E-8BAA-460CBA22677E}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
